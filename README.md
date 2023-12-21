@@ -1,4 +1,5 @@
-#Astro-HTMX-Typescript-Tailwind Baisc Template
+# Astro-HTMX-Typescript-Tailwind Baisc Template
+
 A barebones scaffold for starting an Astro/HTMX/Typescript/Tailwind project. 
 
 ### Installation
